@@ -1,0 +1,9 @@
+C:\Users\Hasan\Desktop\Son Kısım\LinkedListAPPC#\LinkedListConsole\LinkedListLibrary\bin\Debug\netcoreapp3.0\LinkedListLibrary.deps.json
+C:\Users\Hasan\Desktop\Son Kısım\LinkedListAPPC#\LinkedListConsole\LinkedListLibrary\bin\Debug\netcoreapp3.0\LinkedListLibrary.dll
+C:\Users\Hasan\Desktop\Son Kısım\LinkedListAPPC#\LinkedListConsole\LinkedListLibrary\bin\Debug\netcoreapp3.0\LinkedListLibrary.pdb
+C:\Users\Hasan\Desktop\Son Kısım\LinkedListAPPC#\LinkedListConsole\LinkedListLibrary\obj\Debug\netcoreapp3.0\LinkedListLibrary.AssemblyInfoInputs.cache
+C:\Users\Hasan\Desktop\Son Kısım\LinkedListAPPC#\LinkedListConsole\LinkedListLibrary\obj\Debug\netcoreapp3.0\LinkedListLibrary.AssemblyInfo.cs
+C:\Users\Hasan\Desktop\Son Kısım\LinkedListAPPC#\LinkedListConsole\LinkedListLibrary\obj\Debug\netcoreapp3.0\LinkedListLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Hasan\Desktop\Son Kısım\LinkedListAPPC#\LinkedListConsole\LinkedListLibrary\obj\Debug\netcoreapp3.0\LinkedListLibrary.dll
+C:\Users\Hasan\Desktop\Son Kısım\LinkedListAPPC#\LinkedListConsole\LinkedListLibrary\obj\Debug\netcoreapp3.0\LinkedListLibrary.pdb
+C:\Users\Hasan\Desktop\Son Kısım\LinkedListAPPC#\LinkedListConsole\LinkedListLibrary\obj\Debug\netcoreapp3.0\LinkedListLibrary.csprojAssemblyReference.cache

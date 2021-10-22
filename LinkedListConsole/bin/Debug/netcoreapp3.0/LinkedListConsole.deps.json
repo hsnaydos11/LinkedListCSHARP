@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "LinkedListConsole/1.0.0": {
+        "dependencies": {
+          "LinkedListLibrary": "1.0.0"
+        },
+        "runtime": {
+          "LinkedListConsole.dll": {}
+        }
+      },
+      "LinkedListLibrary/1.0.0": {
+        "runtime": {
+          "LinkedListLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LinkedListConsole/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LinkedListLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

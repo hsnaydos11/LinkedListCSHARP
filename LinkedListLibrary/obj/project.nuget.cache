@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "/jbj9FNU2KdXSIeg5zdtnQy4vBetTWKMUERp/Ul61wI3XImYgXbmXYrqODWdu5FDYFe7BIW3cQMfF6B55LWdLA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Hasan\\Desktop\\Son Kısım\\LinkedListAPPC#\\LinkedListConsole\\LinkedListLibrary\\LinkedListLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Hasan\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\Hasan\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\Hasan\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
